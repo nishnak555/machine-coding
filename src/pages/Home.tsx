@@ -8,6 +8,8 @@ export default function Home() {
     { name: "Drag & Drop", path: "/drag-drop" },
     { name: "Debounce Search", path: "/search" },
     { name: "Pagination", path: "/pagination" },
+    { name: "Tic Toc Toe", path: "/tic-toc-toe" },
+    { name: "Pagination", path: "/pagination" },
   ];
 
   return (
